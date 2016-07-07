@@ -1,15 +1,7 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+A friendly programmer who likes to write. I work in a software company called <a href="https://code.energy/" target="_blank">Code Energy</a>. For all stuff I already did, see <a href="http://wladston.net" target="_blank">wladston.net</a>. For contact info, see the links at the footer.

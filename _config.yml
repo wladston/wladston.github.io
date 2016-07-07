@@ -1,8 +1,8 @@
 name: Feedback Loop
-description: Wlad's personal web blog
+description: A personal blog for random stuff
 avatar: http://www.gravatar.com/avatar/c6ee78a8be20668ad98ace891baf5ade?d=identicon
 footer-links:
-  email: wladston@wladston.net
+  email: wlad@code.energy
   facebook: wladston
   github: wladston
   instagram: coderwlad
@@ -14,7 +14,7 @@ footer-links:
   youtube: user/wladston
   googleplus: +WladstonViana
 
-disqus: wladston
+disqus: blog-wladston-net
 
 google_analytics: UA-73145429-1
 
@@ -26,8 +26,8 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+highlighter: rouge
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
